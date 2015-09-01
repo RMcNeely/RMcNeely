@@ -6,9 +6,48 @@
 </description>
     <link>http://www.RMcNeely.github.io/index/</link>
     <atom:link href="http://www.RMcNeely.github.io/index/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Aug 2015 11:35:12 -0400</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2015 11:35:12 -0400</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2015 00:10:47 -0400</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2015 00:10:47 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Ryan McNeely&#39;s Professional Resume</title>
+        <description>&lt;h1 id=&quot;work-experience&quot;&gt;Work Experience&lt;/h1&gt;
+
+&lt;h2 id=&quot;department-manager-at-jos-a-bank-clothiers&quot;&gt;Department Manager at Jos A. Bank Clothiers&lt;/h2&gt;
+
+&lt;h2 id=&quot;sales-executive-at-jos-a-bank-clothiers&quot;&gt;Sales Executive at Jos A. Bank Clothiers&lt;/h2&gt;
+
+&lt;h2 id=&quot;field-organizer-with-gansler-for-governor&quot;&gt;Field Organizer with Gansler For Governor&lt;/h2&gt;
+
+&lt;h2 id=&quot;finance-intern-with-jon-cardin-for-attorney-general&quot;&gt;Finance Intern with Jon Cardin for Attorney General&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;education&quot;&gt;Education&lt;/h1&gt;
+
+&lt;h2 id=&quot;thinkful---essentials-of-full-stack-development-in-rails-ruby-on-rails&quot;&gt;Thinkful - Essentials of Full Stack Development in Rails, Ruby on Rails&lt;/h2&gt;
+
+&lt;h2 id=&quot;bachelors-of-arts---indiana-university-of-pennsylvania&quot;&gt;Bachelors of Arts - Indiana University of Pennsylvania&lt;/h2&gt;
+&lt;p&gt;      Double Major in History and Political Science&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;paying-the-bills&quot;&gt;Paying the bills&lt;/h2&gt;
+&lt;p&gt;While interning is great it doesn’t pay your bills (at least directly!)  So to help out I’ve also worked several jobs ranging from retail at Macy’s to crafting specialty beverages at Starbucks during college and after.  In all of these jobs I’ve been customer facing positions specializing in client relations.  Several have had special emphasis on customer service and relationship selling.  Others just teach you how to work on a team and keep you humble. They’ve been:
+*  Macy’s Sales Associate
+*  Starbucks Barista
+*  Legends Hospitality Concessions
+*  Centerplate Concessions
+*  Aramark Student Employee
+*  Hartman Center Summer Service Team&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Aug 2015 00:00:00 -0400</pubDate>
+        <link>http://www.RMcNeely.github.io/index/resume</link>
+        <guid isPermaLink="true">http://www.RMcNeely.github.io/index/resume</guid>
+        
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
