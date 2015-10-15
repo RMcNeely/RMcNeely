@@ -1,0 +1,19 @@
+# Site settings
+title: RMcNeely.github.io - A Personal Development Journal
+email: rmcneely23@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  The personal development journal and resume for Ryan McNeely.  Embracing new code one snippet at a time.
+baseurl: "/index" # the subpath of your site, e.g. /blog/
+url: "http://www.RMcNeely.github.io" # the base hostname & protocol for your site
+twitter_username:
+github_username:  RMcNeely
+linkedin_username: "Ryan McNeely"
+page_author:  "Ryan McNeely"
+collections:
+  images:
+    output: false
+
+images: "/img/{image-title}"
+layout: "grayscale"
+# Build settings
+markdown: kramdown
