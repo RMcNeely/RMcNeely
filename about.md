@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: About Jekyll
 permalink: /about-Jekyll/
 ---

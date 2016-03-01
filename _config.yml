@@ -13,7 +13,7 @@ collections:
   images:
     output: false
 
-images: "/img/{image-title}"
+images: "../img/{image-title}"
 layout: "grayscale"
 # Build settings
 markdown: kramdown
